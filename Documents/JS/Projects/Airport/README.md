@@ -1,4 +1,13 @@
-Airport Challenge JavaScript
+Airport Challenge JavaScript/ Learning a new language.
+
+Once I started to see the amount of information used on the Airport challenge walkthroughs, I realize that I needed more time understanding the logic and syntax of JS before I could start tackling the challenge. But I also knew that if i didn't pushed myself to do the challenge I will not understand it.
+
+At the same time that I was doing the challenge I was doing research about each term I found confusing/weird but I realize that terminology changes based on what users have encounter. It's not just like a new language that someone can explain, it depends a lot on what are you trying to learn and the functionality of it.
+
+Many sites explain JS with examples, but these examples bring another negative to the equation and that is that they bring more terminology and more new confusing/weird words and ways on how to solve the issue, I guess this is why JS is so popular. It has a few ways to confront an issue which it makes JS a very powerful tool.
+
+Once I started to understand the logic and compared to Ruby it all started to make a little more sense in the challenge. little did I know that the walkthroughs will have refactor content that create a little confusion, which it maked me come with the conflicts below.
+
 
 -- I'm not sure why did the walkthrough create a feature test. Based on previous exercises feature test to my understanding are to test how the user will interact with our app, rather than how the app will interact with itself.
 
